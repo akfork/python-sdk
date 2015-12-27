@@ -24,7 +24,7 @@ Here, you can explore and play with UPYUN APIs :)
 ---------------------------------------------------
 Getting Started:
     0. Register an account on http://www.upyun.com
-    1. Write your bucket_name/username/password in apikey.cfg
+    1. Write your bucket_name/username/password in apikey.py
     2. Start this interactive shell and try various APIs
         For example, to upload a file with a string content, just type:
             up.put('/upyun-python-sdk/ascii.txt', 'abcdefghijklmnopqrstuvwxyz\n')
